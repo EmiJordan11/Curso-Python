@@ -1,0 +1,14 @@
+
+ACLARACIONES:
+-El archivo "estilos.py" es necesario ya que se importan módulos de ese archivo
+
+-El programa solo funciona para la segunda opción del menú principal (mostrar vuelos), sin embargo, desde esa opción el mismo programa va preguntando al usuario y es posible seleccionar el asiento y finalizar la compra desde esa opción.
+
+-El programa todavía no tiene validez de datos, por lo que si se ingresa un valor no esperado el programa no funcionará. Lo único que tiene verificación de datos es la selección de asientos (podes probar eso), el cual no dejará seleccionar un asiento que no exista (no existe la fila o la columna) o que esté ocupado.
+
+-Esta solo es una versión de prueba del programa para que vayas viendo como va el proyecto. La idea es arreglar lo aclarado anteriormente y sumar las cosas nuevas (por ej: que el ticket de compra se haga en forma de archivo .txt)
+
+
+RECOMENDACIONES:
+-Te recomiendo que la consola utilice toda la pantalla para apreciar por completo lo que se imprima
+
