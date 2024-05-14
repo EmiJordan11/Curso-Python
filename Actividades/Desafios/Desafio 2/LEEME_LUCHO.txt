@@ -1,14 +1,15 @@
-
 ACLARACIONES:
--El archivo "estilos.py" es necesario ya que se importan módulos de ese archivo
+-El archivo "estilos.py" y "errores.py" es necesario ya que se importan módulos de ese archivo
 
--El programa solo funciona para la segunda opción del menú principal (mostrar vuelos), sin embargo, desde esa opción el mismo programa va preguntando al usuario y es posible seleccionar el asiento y finalizar la compra desde esa opción.
+-El programa ya funciona para todas las opciones del menu principal
 
--El programa todavía no tiene validez de datos, por lo que si se ingresa un valor no esperado el programa no funcionará. Lo único que tiene verificación de datos es la selección de asientos (podes probar eso), el cual no dejará seleccionar un asiento que no exista (no existe la fila o la columna) o que esté ocupado.
+-Los vuelos se generan aleatoriamente cada vez que se ejecuta el código, por lo que si querés revisar la consistencia de las acciones (ver si el asiento que reservé ahora figura ocupado, etc) vas a tener que hacerlo en la misma ejecución, el programa te va a permitir siempre volver al menú principal.
 
--Esta solo es una versión de prueba del programa para que vayas viendo como va el proyecto. La idea es arreglar lo aclarado anteriormente y sumar las cosas nuevas (por ej: que el ticket de compra se haga en forma de archivo .txt)
+-El programa ya tiene validez de datos y de rango, si probás podrás observar que no vas a poder ingresar un tipo de dato inválido ni tampoco una opción fuera del rango especificado (es decir, si solo podés elegir entre opción 1 y 2, si pones 3 no te permitirá seguir). También se agregó validez de vuelos, es decir, si cuando ingresas el número de un vuelo este no existe, te lo pedirá de nuevo. 
 
+-Se agregó la idea de que el programa pregunte si desea imprimir el recibo, generando un .txt, lo único malo es que lógicamente se irá sobreescribiendo a medida que decidas imprimir los boletos.
+
+-La opción de cancelar reserva no es solo un título que dice "RESERVA CANCELADA!", si verificas nuevamente los vuelos, vas a ver que el asiento de la reserva cancelada estará disponible y la Cantidad de asientos disponibles aumentará en 1.
 
 RECOMENDACIONES:
 -Te recomiendo que la consola utilice toda la pantalla para apreciar por completo lo que se imprima
-

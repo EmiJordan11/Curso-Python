@@ -35,3 +35,6 @@ def datos(cadena):
 
 def error(cadena):
     return f'{{}}{{}}{cadena}{{}}'.format(estilo['fondo_rojo'],estilo['negro'],estilo['reset'])
+
+def rojo(cadena):
+    return f'{{}}{cadena}{{}}'.format(estilo['rojo'],estilo['reset'])
