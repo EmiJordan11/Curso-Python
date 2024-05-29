@@ -1,0 +1,56 @@
+[
+    {
+      "titulo": "Brave New World",
+      "autor": "Aldous Huxley",
+      "anio_publicacion": "1932",
+      "unidades": 2
+    },
+    {
+      "titulo": "The Grapes of Wrath",
+      "autor": "John Steinbeck",
+      "anio_publicacion": "1939",
+      "unidades": 1
+    },
+    {
+      "titulo": "One Hundred Years of Solitude",
+      "autor": "Gabriel Garcia Marquez",
+      "anio_publicacion": "1967",
+      "unidades": 1
+    },
+    {
+      "titulo": "The Odyssey",
+      "autor": "Homer",
+      "anio_publicacion": "8th century BC",
+      "unidades": 2
+    },
+    {
+      "titulo": "War and Peace",
+      "autor": "Leo Tolstoy",
+      "anio_publicacion": "1869",
+      "unidades": 1
+    },
+    {
+      "titulo": "The Divine Comedy",
+      "autor": "Dante Alighieri",
+      "anio_publicacion": "1320",
+      "unidades": 1
+    },
+    {
+      "titulo": "The Alchemist",
+      "autor": "Paulo Coelho",
+      "anio_publicacion": "1988",
+      "unidades": 1
+    },
+    {
+      "titulo": "Crime and Punishment",
+      "autor": "Fyodor Dostoevsky",
+      "anio_publicacion": "1866",
+      "unidades": 2
+    },
+    {
+      "titulo": "The Great Expectations",
+      "autor": "Charles Dickens",
+      "anio_publicacion": "1861",
+      "unidades": 2
+    }
+  ]

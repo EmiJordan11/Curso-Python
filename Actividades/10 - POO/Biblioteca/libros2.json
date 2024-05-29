@@ -1,0 +1,62 @@
+[
+    {
+        "titulo": "The Great Gatsby",
+        "autor": "F. Scott Fitzgerald",
+        "anio_publicacion": "1925",
+        "unidades": 1
+    },
+    {
+        "titulo": "To Kill a Mockingbird",
+        "autor": "Harper Lee",
+        "anio_publicacion": "1960",
+        "unidades": 2
+    },
+    {
+        "titulo": "1984",
+        "autor": "George Orwell",
+        "anio_publicacion": "1949",
+        "unidades": "5"
+    },
+    {
+        "titulo": "The Catcher in the Rye",
+        "autor": "J.D. Salinger",
+        "anio_publicacion": "1951",
+        "unidades": "3"
+    },
+    {
+        "titulo": "The Hobbit",
+        "autor": "J.R.R. Tolkien",
+        "anio_publicacion": "1937",
+        "unidades": 1
+    },
+    {
+        "titulo": "Pride and Prejudice",
+        "autor": "Jane Austen",
+        "anio_publicacion": "1813",
+        "unidades": 2
+    },
+    {
+        "titulo": "To the Lighthouse",
+        "autor": "Virginia Woolf",
+        "anio_publicacion": "1927",
+        "unidades": 2
+    },
+    {
+        "titulo": "Moby-Dick",
+        "autor": "Herman Melville",
+        "anio_publicacion": "1851",
+        "unidades": 1
+    },
+    {
+        "titulo": "The Lord of the Rings",
+        "autor": "J.R.R. Tolkien",
+        "anio_publicacion": "1954",
+        "unidades": 1
+    },
+    {
+        "titulo": "The Chronicles of Narnia",
+        "autor": "C.S. Lewis",
+        "anio_publicacion": "1950",
+        "unidades": 1
+    }
+  ]
